@@ -22,10 +22,10 @@ Tenho interesse em desenvolvimento web, banco de dados, lógica de programação
 
 ## Contato
 
-🌐 https://rafaelsantanar.github.io
+🌐 Outros Links: https://rafaelsantanar.github.io
 
 💼 LinkedIn:
 https://www.linkedin.com/in/rafaelsantanar/
 
-📧 [rafael.rsantanaa@gmail.com](mailto:rafael.rsantanaa@gmail.com)
+📧 Gmail: [rafael.rsantanaa@gmail.com](mailto:rafael.rsantanaa@gmail.com)
 
