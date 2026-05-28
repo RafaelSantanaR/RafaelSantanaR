@@ -23,7 +23,7 @@ Tenho interesse em desenvolvimento web, banco de dados, lógica de programação
 🌐 https://rafaelsantanar.github.io
 
 💼 LinkedIn:
-https://www.linkedin.com/in/SEULINK/
+https://www.linkedin.com/in/rafaelsantanar/
 
 📧 [rafael.rsantanaa@gmail.com](mailto:rafael.rsantanaa@gmail.com)
 
