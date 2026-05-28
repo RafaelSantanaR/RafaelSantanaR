@@ -7,6 +7,9 @@ Tenho interesse em desenvolvimento web, banco de dados, lógica de programação
 ## Tecnologias
 
 * HTML
+* C
+* JavaScript
+* Java
 * CSS
 * JavaScript
 * GitHub
